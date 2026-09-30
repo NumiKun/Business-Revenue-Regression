@@ -1,0 +1,40 @@
+{
+  "numerical_features": [
+    "age",
+    "experience_years",
+    "experience_proxy",
+    "monthly_ad_spend",
+    "website_visits",
+    "team_size",
+    "customer_rating",
+    "ad_spend_per_visit",
+    "revenue_potential",
+    "experience_rating"
+  ],
+  "categorical_features": [
+    "region",
+    "business_type",
+    "subscription_plan"
+  ],
+  "all_encoded_features": [
+    "age",
+    "experience_years",
+    "experience_proxy",
+    "monthly_ad_spend",
+    "website_visits",
+    "team_size",
+    "customer_rating",
+    "ad_spend_per_visit",
+    "revenue_potential",
+    "experience_rating",
+    "region_Cairo",
+    "region_Delta",
+    "region_Upper_Egypt",
+    "business_type_Manufacturing",
+    "business_type_Retail",
+    "business_type_Services",
+    "subscription_plan_Premium",
+    "subscription_plan_Standard"
+  ],
+  "target_column": "annual_revenue"
+}
