@@ -1,0 +1,22 @@
+# Core Data Science & Data Manipulation
+pandas==3.0.5
+numpy==2.5.1
+scipy==1.18.0
+
+# Visualization
+matplotlib==3.11.1
+seaborn==0.13.2
+
+# Machine Learning & Modeling
+scikit-learn==1.9.0
+xgboost==3.3.0
+lightgbm==4.7.0
+
+# Model Persistence & Utilities
+joblib==1.5.3
+shap==0.52.0
+
+# Interactive Computing / Jupyter Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+nbconvert>=7.0.0
